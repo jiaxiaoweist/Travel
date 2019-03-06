@@ -24,9 +24,9 @@
             }
         },
         computed: {
-            showSwiper () {
-                return this.list.length
-            }
+            // showSwiper () {
+            //     return this.list.length
+            // }
         }
     }
 </script>
