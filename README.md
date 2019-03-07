@@ -2,6 +2,18 @@
 
 > Vue2.5 开发去哪儿网 App 从零基础入门到实战项目
 
+## 截图
+
+![](https://github.com/jiaxiaoweist/game/blob/master/res/screenshoot-1.png)
+
+## 访问地址
+- 请使用微信扫码访问。
+![](https://github.com/jiaxiaoweist/game/blob/master/res/screenshoot-2.png)
+### 如果你不能扫码访问
+
+（如果在电脑上访问请使用chrome浏览器打开以下链接，并在控制台切换到移动设备模式；移动设备可直接访问。）
+小游戏<a href="https://github.com/jiaxiaoweist/translation-extensions/issues/new">访问链接。</a>
+
 ## Build Setup
 
 ```bash
